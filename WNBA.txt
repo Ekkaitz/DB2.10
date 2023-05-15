@@ -1,0 +1,28 @@
+Temporada,Jugadora,Pos.,Equipo,"Partidos
+jugados","Balones
+perdidos","Asistencias
+por perdidas","Asistencias
+totales",Asistencias por partido
+1997,Teresa Weatherspoon,B,New York Liberty,28,94,1.83,172,6.1
+1998,Ticha Penicheiro,B/E,Sacramento Monarchs,30,116,1.93,224,7.5
+1999,Ticha Penicheiro (2),B/E,Sacramento Monarchs,32,135,1.67,226,7.1
+2000,Ticha Penicheiro (3),B/E,Sacramento Monarchs,30,71,3.32,236,7.9
+2001,Ticha Penicheiro (4),B/E,Sacramento Monarchs,23,64,2.69,172,7.5
+2002,Ticha Penicheiro (5),B/E,Sacramento Monarchs,24,69,2.78,192,8.0
+2003,Ticha Penicheiro (6),B/E,Sacramento Monarchs,34,81,2.83,229,6.7
+2004,Nikki Teasley,B/E,Los Angeles Sparks,34,103,2.01,207,6.1
+2005,Sue Bird,B,Seattle Storm,30,87,2.02,176,5.9
+2006,Nikki Teasley (2),B/E,Washington Mystics,34,77,3.68,283,5.4
+2007,Becky Hammon,B,San Antonio Silver Stars,28,114,1.23,140,5.0
+2008,Lindsay Whalen,B,Connecticut Sun,31,58,2.86,166,5.4
+2009,Sue Bird (2),B,Seattle Storm,31,81,2.21,179,5.8
+2010,Ticha Penicheiro (7),B/E,Los Angeles Sparks,32,72,3.06,220,6.9
+2011,Lindsay Whalen (2),B,Minnesota Lynx,34,75,2.65,199,5.9
+2012,Lindsay Whalen (3),B,Minnesota Lynx,33,68,2.62,178,5.4
+2013,"Robinson, DanielleDanielle Robinson",B,San Antonio Silver Stars,25,64,2.63,168,6.7
+2014,"Vandersloot, CourtneyCourtney Vandersloot",B,Phoenix Mercury,33,87,2.13,185,5.6
+2015,"Parker, CandaceCandace Parker",A,Los Angeles Sparks,16,40,2.50,100,6.3
+2016,"Bird, SueSue Bird (3)",B,Seattle Storm,34,84,2.33,196,5.8
+2017,"Vandersloot, CourtneyCourtney Vandersloot (2)",B,Chicago Sky,27,80,2.73,218,8.1
+2018,"Vandersloot, CourtneyCourtney Vandersloot (3)",B,Chicago Sky,30,104,2.48,258,8.6
+2019,"Vandersloot, CourtneyCourtney Vandersloot (4)",B,Chicago Sky,33,96,3.13,300,9.1
